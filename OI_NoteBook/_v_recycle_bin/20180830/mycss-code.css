@@ -1,0 +1,109 @@
+/*
+
+Original highlight.js style (c) Ivan Sagalaev <maniac@softwaremaniacs.org>
+
+*/
+.hljs {
+    background: white !important;
+    opacity: 1 !important;
+    color: #1e1e1e !important;
+    font-size: 15px !important;
+}
+
+.hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+}
+.hljs {
+    font-family: "Consolas",sans-serif!important;
+    font-size: 12px!important;
+    line-height: 1.5!important;
+    padding: 5px!important;
+}
+
+/* Base color: saturation 0; */
+
+.hljs,
+.hljs-subst {
+  color: #1e1e1e;
+}
+
+.hljs-comment {
+  color: #1e1e1e;
+}
+
+.hljs-keyword,
+.hljs-attribute,
+.hljs-selector-tag,
+.hljs-meta-keyword,
+.hljs-doctag,
+.hljs-name {
+  color: #0000ee;
+}
+
+
+/* User color: hue: 0 */
+
+.hljs-type,
+.hljs-string,
+.hljs-number,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-quote,
+.hljs-template-tag,
+.hljs-deletion {
+  color: #880000;
+}
+
+.hljs-title,
+.hljs-section {
+  color: #880000;
+  font-weight: bold;
+}
+
+.hljs-regexp,
+.hljs-symbol,
+.hljs-variable,
+.hljs-template-variable,
+.hljs-link,
+.hljs-selector-attr,
+.hljs-selector-pseudo {
+  color: #BC6060;
+}
+
+
+/* Language color: hue: 90; */
+
+.hljs-literal {
+  color: #af00d7;
+}
+
+.hljs-built_in,
+.hljs-bullet,
+.hljs-code,
+.hljs-addition {
+  color: #008700;
+}
+
+
+/* Meta color: hue: 200 */
+
+.hljs-meta {
+  color: #d2732e;
+}
+
+.hljs-meta-string {
+  color: #c39aa1;
+}
+
+
+/* Misc effects */
+
+.hljs-emphasis {
+  font-style: italic;
+}
+
+.hljs-strong {
+  font-weight: bold;
+}
