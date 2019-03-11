@@ -2,12 +2,12 @@
     "navigation":
     [
         {
-            "text": "Home",
+            "text": "主页",
             "target": "index.md",
             "toc": false
         },
         {
-            "text": "Notebook",
+            "text": "OI笔记本",
             "target": "OI_NoteBook/_vnote.json",
             "navi": true
         }
@@ -15,7 +15,7 @@
     "actions":
     [
         {
-            "text": "Leo101的笔记存档",
+            "text": "viki	",
             "icon": "css/viki_white.svg",
             "target": "https://tamlok.github.io/viki/"
         }
